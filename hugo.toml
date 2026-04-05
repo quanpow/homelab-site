@@ -1,0 +1,15 @@
+baseURL = "/"
+languageCode = "en-us"
+title = "My Home Lab"
+theme = "PaperMod"
+
+[params]
+	description = "Building and documenting my home lab journey"
+	ShowReadingTime = true
+	ShowPostNavLinks = true
+
+[menu]
+	[[menu.main]]
+	name = "Posts"
+	url = "/posts"
+	weight = 1
