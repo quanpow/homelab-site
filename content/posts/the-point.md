@@ -1,6 +1,6 @@
 +++
 date = '2026-04-04T20:00:52-07:00'
-draft = true
+draft = false
 title = 'The Point'
 +++
 
