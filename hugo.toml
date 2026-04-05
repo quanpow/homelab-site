@@ -1,4 +1,4 @@
-baseURL = "/"
+baseURL = "https://quanpow.github.io/homelab-site/"
 languageCode = "en-us"
 title = "My Home Lab"
 theme = "PaperMod"
